@@ -64,40 +64,6 @@ Words that are frequent in a particular document but less common across other do
 * Machine Learning concepts
 * Text vectorization
 
-## 📂 Repository Structure
-
-```text
-text-preprocessing-nlp-bow-tfidf/
-│
-├── README.md
-├── notebooks/
-│   └── text_preprocessing_nlp.ipynb
-│
-├── images/
-│   └── article-images/
-│
-└── requirements.txt
-```
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/text-preprocessing-nlp-bow-tfidf.git
-```
-
-Navigate to the project:
-
-```bash
-cd text-preprocessing-nlp-bow-tfidf
-```
-
-If a Python environment is being used, install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## 🎯 Learning Objective
 
@@ -111,8 +77,6 @@ This repository is based on the Medium article:
 
 ## 👩‍💻 Author
 
-**Yamini**
-
----
+**Marishetty Ramyakrishna**
 
 ⭐ If you found this repository useful, consider giving it a star!
