@@ -71,7 +71,7 @@ The main objective of this repository is to demonstrate how textual data can be 
 
 ## 📝 Article
 
-This repository is based on the Medium article:
+This repository is based on the Medium article:[https://lnkd.in/p/daYhD4xS]
 
 **Text Preprocessing in NLP: Bag of Words (BoW) and TF-IDF**
 
